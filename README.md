@@ -2,7 +2,7 @@
 
 ![Banner with Antti holding a Latin dictionary and a trophy](https://github.com/anttikivi/anttikivi/raw/master/readme-banner-rounded.png)
 
-Hi. I’m Antti Kivi, a software developer and an entrepreneur in [@visiosto](https://github.com/visiosto). I’m all about learning something new every day and smiling as much as possible. 🌱 I love white chocolate, coffee, and playing the guitar. 🌻 Right now I’m in compulsory military service in Finland.
+Hi. I’m Antti Kivi, a software developer and an entrepreneur in @visiosto. I’m all about learning something new every day and smiling as much as possible. 🌱 I love white chocolate, coffee, and playing the guitar. 🌻 Right now I’m in compulsory military service in Finland.
 
 🔭 I also happen to work on a few project of my own in multiple programming languages as I enjoy working with different languages. Especially I beam when tinkering C++. Feel free to look around my repositories!
 
