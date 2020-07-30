@@ -1,6 +1,6 @@
 # Hello there! I’m Antti Kivi 👋
 
-![Banner with Antti holding a Latin dictionary and a trophy](/readme-banner.png)
+![Banner with Antti holding a Latin dictionary and a trophy](https://github.com/anttikivi/anttikivi/raw/master/readme-banner.png)
 
 Hi. I’m Antti Kivi, a software developer and an entrepreneur in [@visiosto](https://github.com/visiosto). I’m all about learning something new every day and smiling as much as possible. 🌱 I love white chocolate, coffee, and playing the guitar. 🌻 Right now I’m in compulsory military service in Finland.
 
