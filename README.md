@@ -2,9 +2,9 @@
 
 <!-- ![Banner with Antti holding a Latin dictionary and a trophy](https://github.com/anttikivi/anttikivi/raw/master/readme-banner-rounded.png) -->
 
-Hi. I’m Antti Kivi, a software developer and an entrepreneur in [@visiosto](https://github.com/visiosto). I’m all about learning something new every day and smiling as much as possible. 🌱 I love white chocolate, coffee, and playing the guitar. 🌻 Right now I’m in compulsory military service in Finland.
+Hi. I’m Antti Kivi, a software developer and a co-founder of [@visiosto](https://github.com/visiosto). I’m all about learning something new every day and smiling as much as possible. 🌱 I love white chocolate, coffee, and playing the guitar. 🌻
 
-🔭 I also happen to work on a few project of my own in multiple programming languages as I enjoy working with different languages. Especially I beam when tinkering with C++. Feel free to look around my repositories!
+🔭 I also happen to work on a few projects of my own in a vast array of programming languages. Especially I beam when tinkering with C++.
 
 📫 To reach me, you can try emailing me at my public address. For more information about me, check out [anttikivi.fi](https://anttikivi.fi).
 
