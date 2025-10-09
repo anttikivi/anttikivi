@@ -1,12 +1,9 @@
-# Hello, I’m _Antti Kivi_
+Hello, I’m _Antti Kivi_.
 
-I’m communications adviser at the
-[National Union of University Students in Finland](https://syl.fi/en), managing
-director and developer for [Visiosto](https://www.visiosto.fi/en/), and a
-student of social sciences and science at the University of Helsinki and
-administrative sciences at Tampere University. You can read more about me on my
-website at [www.anttikivi.fi](https://www.anttikivi.fi/en/) (as soon as I get
-around to updating it).
+I’m a software developer, entrepreneur, student, and communications adviser.
 
-Right now I’m mostly working on [Visiosto’s](https://github.com/visiosto)
-projects as well as server and developer tooling.
+As an entrepreneur at [Visiosto](https://www.visiosto.fi/en), I build web applications. Besides that, I mostly work on open-source projects, and you can find some of my work here on GitHub.
+
+My day job revolves around politics and social issues as the communications adviser of [National Union of University Students in Finland](https://syl.fi/en).
+
+In addition to all this, I study social sciences and science at the University of Helsinki and administrative sciences at Tampere University.
