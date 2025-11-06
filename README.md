@@ -1,9 +1,13 @@
 Hello, I’m _Antti Kivi_.
 
-I’m a software developer, entrepreneur, student, and communications adviser.
+I build web applications as an entrepreneur at
+[Visiosto](https://www.visiosto.fi/en). We specialize in accessible applications
+and inclusive services.
 
-As an entrepreneur at [Visiosto](https://www.visiosto.fi/en), I build web applications. Besides that, I mostly work on open-source projects, and you can find some of my work here on GitHub.
+In my spare time, I mainly work on personal projects, most of which are open
+source. You can find some of my work here on GitHub.
 
-My day job revolves around politics and social issues as the communications adviser of [National Union of University Students in Finland](https://syl.fi/en).
+You can read more about me on my [website](https://www.anttikivi.com).
 
-In addition to all this, I study social sciences and science at the University of Helsinki and administrative sciences at Tampere University.
+For my day job, I’m the communications adviser at the
+[National Union of University Students in Finland](https://syl.fi/en).
