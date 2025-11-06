@@ -1,4 +1,4 @@
-Hello, I’m _Antti Kivi_.
+Hello, I’m Antti Kivi.
 
 I build web applications as an entrepreneur at
 [Visiosto](https://www.visiosto.fi/en). We specialize in accessible applications
